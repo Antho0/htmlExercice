@@ -7,5 +7,9 @@
 <body>
   <h1>Exercice1</h1>
   <p>Ceci est l'exercice 1</p>
+  <h2>Exercice2</h2>
+  <p>Ceci est l'exercice 2</p>
+  <h3>Exercice 2</h3>
+  <p>Ceci est toujours l'exercice2</p>
 </body>
 </html>
